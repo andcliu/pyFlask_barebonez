@@ -3,6 +3,7 @@
 <ul>
 	<li>git clone repo</li>
 	<li>virtualenv folder name</li>
+	<li>cd into folder</li>
 	<li>pip install flask and other dependencies</li>
 	<li>python server.py</li>
 	<li>enjoy</li>
